@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 1000px;
+    background-color: rgb(214, 238, 136);
+}
+
+#progress{
+    height: 10px;
+    position: fixed;
+    background-color: blueviolet;
+
+}
